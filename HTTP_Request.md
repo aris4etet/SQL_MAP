@@ -130,5 +130,5 @@ sqlmap -u http://target.com --forms
 
 
 
-If you want, I can compress this further into a **1-page OSCP/HTB cheatsheet** or tailor it for **AD-backed apps**.
+Use options "--batch --dump" to automatically dump all data.
 ```
